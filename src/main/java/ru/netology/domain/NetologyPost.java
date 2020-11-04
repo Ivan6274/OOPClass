@@ -10,8 +10,9 @@ public class NetologyPost {
     public class SubscribersInfo {
         private int subscriberId;
         private String subsciberImageUrl;
-        private int countSubdcribers;
+        private int countSubscribers;
         private boolean userIsSubscribded;
+        private String viewAllSubscribe;
     }
 
     public class InformationAboutUs {
@@ -24,6 +25,7 @@ public class NetologyPost {
         private String imageUrl;
         private String text;
         private String coast;
+        private String viewAllProduct;
     }
 
     public class Article{
