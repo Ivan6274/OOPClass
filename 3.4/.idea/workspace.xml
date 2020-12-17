@@ -15,7 +15,6 @@
   <component name="ChangeListManager">
     <list default="true" id="acf9ff02-2765-41cb-8ac0-983d93ff7bd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/manager/FilmManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/manager/FilmManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dependens/javaqa-code" beforeDir="false" afterPath="$PROJECT_DIR$/../Dependens/javaqa-code" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HW 3.4#1" beforeDir="false" afterPath="$PROJECT_DIR$/../HW 3.4#1" afterDir="false" />
     </list>
@@ -106,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608228989416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1608229890519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608229890519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,17 +131,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608231266761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608231266761" />
     <state x="360" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608227626646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="360" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1608227626646" />
+    <state x="506" y="266" key="Github.CreateGistDialog" timestamp="1608231600807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="506" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1608231600807" />
+    <state width="1305" height="176" key="GridCell.Tab.0.bottom" timestamp="1608231171810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608231171810" />
+    <state width="1305" height="176" key="GridCell.Tab.0.center" timestamp="1608231171809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608231171809" />
+    <state width="1305" height="176" key="GridCell.Tab.0.left" timestamp="1608231171808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608231171808" />
+    <state width="1305" height="176" key="GridCell.Tab.0.right" timestamp="1608231171809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608231171809" />
     <state x="183" y="9" key="SettingsEditor" timestamp="1608227442276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608227442276" />
-    <state x="274" y="84" key="Vcs.Push.Dialog.v2" timestamp="1608229000819">
+    <state x="274" y="84" key="Vcs.Push.Dialog.v2" timestamp="1608229898191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608229000819" />
+    <state x="274" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608229898191" />
   </component>
 </project>
