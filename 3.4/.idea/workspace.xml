@@ -9,19 +9,56 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/filmAfisha" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acf9ff02-2765-41cb-8ac0-983d93ff7bd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dependens/javaqa-code" beforeDir="false" afterPath="$PROJECT_DIR$/../Dependens/javaqa-code" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW 3.4#1" beforeDir="false" afterPath="$PROJECT_DIR$/../HW 3.4#1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerGetAllTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerGetAllTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -29,7 +66,8 @@
         <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,10 +86,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New 3.4" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="JUnit.FilmManagerGetAllTest">
+  <component name="RunManager" selected="JUnit.FilmManagerTest">
     <configuration name="FilmManagerGetAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cart" />
       <extension name="coverage">
@@ -84,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FilmManagerGetAllTest" />
         <item itemvalue="JUnit.FilmManagerTest" />
+        <item itemvalue="JUnit.FilmManagerGetAllTest" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608229890519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix commit">
+      <created>1608233519943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608233519943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,17 +165,35 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/filmAfisha" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="fix commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="434" y="188" key="#Notifications" timestamp="1608553882770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1608553882770" />
     <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608231266761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -139,33 +202,53 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="360" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1608227626646" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1608565048704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608565048704" />
     <state x="506" y="266" key="Github.CreateGistDialog" timestamp="1608231600807">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="506" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1608231600807" />
-    <state width="1305" height="176" key="GridCell.Tab.0.bottom" timestamp="1608231171810">
+    <state width="1305" height="176" key="GridCell.Tab.0.bottom" timestamp="1608556429649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608231171810" />
-    <state width="1305" height="176" key="GridCell.Tab.0.center" timestamp="1608231171809">
+    <state width="1305" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608556429649" />
+    <state width="1305" height="176" key="GridCell.Tab.0.center" timestamp="1608556429649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608231171809" />
-    <state width="1305" height="176" key="GridCell.Tab.0.left" timestamp="1608231171808">
+    <state width="1305" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608556429649" />
+    <state width="1305" height="176" key="GridCell.Tab.0.left" timestamp="1608556429648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608231171808" />
-    <state width="1305" height="176" key="GridCell.Tab.0.right" timestamp="1608231171809">
+    <state width="1305" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608556429648" />
+    <state width="1305" height="176" key="GridCell.Tab.0.right" timestamp="1608556429649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608231171809" />
+    <state width="1305" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608556429649" />
+    <state width="1305" height="220" key="GridCell.Tab.1.bottom" timestamp="1608321288343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608321288343" />
+    <state width="1305" height="220" key="GridCell.Tab.1.center" timestamp="1608321288343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608321288343" />
+    <state width="1305" height="220" key="GridCell.Tab.1.left" timestamp="1608321288343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608321288343" />
+    <state width="1305" height="220" key="GridCell.Tab.1.right" timestamp="1608321288343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1305" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608321288343" />
     <state x="183" y="9" key="SettingsEditor" timestamp="1608227442276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608227442276" />
-    <state x="274" y="84" key="Vcs.Push.Dialog.v2" timestamp="1608229898191">
+    <state x="274" y="84" key="Vcs.Push.Dialog.v2" timestamp="1608233756036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608229898191" />
+    <state x="274" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608233756036" />
   </component>
 </project>

@@ -1,6 +1,7 @@
 package ru.netology.manager;
 
 import org.junit.jupiter.api.Test;
+import ru.netology.domain.CountShowLastFilm;
 import ru.netology.domain.PurchaseItem;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -9,7 +10,9 @@ class FilmManagerTest {
 
   @Test
   void showLatestFilmMax() {
+
     FilmManager manager = new FilmManager();
+    CountShowLastFilm count = new CountShowLastFilm(5);
 
     PurchaseItem first = new PurchaseItem(1, 1, "first", "http.first");
     PurchaseItem second = new PurchaseItem(2, 2, "second", "http.second");

@@ -1,5 +1,5 @@
 package ru.netology.manager;
-
+//import ru.netology.domain.CountShowLastFilm;
 import ru.netology.domain.PurchaseItem;
 
 class FilmManager {
@@ -31,19 +31,20 @@ class FilmManager {
   }
 
   public PurchaseItem[] showLatestFilm() {
-    int countShowLastMovie = 5;
+
+      int count = 5;
 
     PurchaseItem[] item = new PurchaseItem[items.length];
 
-    if (items.length <= countShowLastMovie) {
+    if (items.length <= count) {
       for (int i = 0; i < items.length; i++) {
         int index = items.length - i - 1;
         item[i] = items[index];
       }
       return item;
     } else {
-      PurchaseItem[] item1 = new PurchaseItem[countShowLastMovie];
-      for (int i = 0; i < countShowLastMovie; i++) {
+      PurchaseItem[] item1 = new PurchaseItem[count];
+      for (int i = 0; i < count; i++) {
         int index = items.length - i - 1;
         item1[i] = items[index];
       }
