@@ -29,25 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acf9ff02-2765-41cb-8ac0-983d93ff7bd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New 3.4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerGetAllTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerGetAllTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/netology/manager/FilmManagerTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="acf9ff02-2765-41cb-8ac0-983d93ff7bd8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,22 +192,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="506" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1608231600807" />
-    <state width="1305" height="176" key="GridCell.Tab.0.bottom" timestamp="1608556429649">
+    <state width="1305" height="176" key="GridCell.Tab.0.bottom" timestamp="1608566270910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608556429649" />
-    <state width="1305" height="176" key="GridCell.Tab.0.center" timestamp="1608556429649">
+    <state width="1305" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608566270910" />
+    <state width="1305" height="176" key="GridCell.Tab.0.center" timestamp="1608566270908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608556429649" />
-    <state width="1305" height="176" key="GridCell.Tab.0.left" timestamp="1608556429648">
+    <state width="1305" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608566270908" />
+    <state width="1305" height="176" key="GridCell.Tab.0.left" timestamp="1608566270908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608556429648" />
-    <state width="1305" height="176" key="GridCell.Tab.0.right" timestamp="1608556429649">
+    <state width="1305" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608566270908" />
+    <state width="1305" height="176" key="GridCell.Tab.0.right" timestamp="1608566270908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1305" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608556429649" />
+    <state width="1305" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608566270908" />
     <state width="1305" height="220" key="GridCell.Tab.1.bottom" timestamp="1608321288343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
